@@ -1,6 +1,6 @@
 {
   "name": "brick-browser",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Brick Browser Implementation",
   "main": "index.js",
   "scripts": {
